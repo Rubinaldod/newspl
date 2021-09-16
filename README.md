@@ -1,4 +1,4 @@
-# wordpress_app
+# platinaLine App
 
 A new Flutter project.
 
