@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609293182509",
+    "project_id": "newspl",
+    "storage_bucket": "newspl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609293182509:android:6df0e7da9b991f0436baa4",
+        "android_client_info": {
+          "package_name": "com.aykawenji.newspl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609293182509-6coshts4b102a2i20d19k6q1turaq1rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBIfDIVje68UPnvUIJZqIakxsxqxvyDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609293182509-6coshts4b102a2i20d19k6q1turaq1rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

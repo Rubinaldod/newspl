@@ -1,0 +1,91 @@
+{
+
+  "welcome to" : "Seja benvindo a",
+  "login to continue": "Iniciar sessao para continuar",
+  "welcome-intro": "Explore as últimas noticias e eventos que suceden no mundo em minutos. Suscreve e recebe notificoes de todos nossos artígos e compartilhe com teus amigos.",
+  "skip": "Pular",
+
+  "don't have an account?" : "Nao tens uma conta?",
+  "create" : "Criar",
+  "create account" : "Criar uma conta",
+  "login" : "Acesso",
+  "login to access all features" : "Inicie sessão para aceder a todas as funções",
+  "follow the simple steps": "siga os passos simples",
+  "already have an account?": "ja tens uma conta?",
+
+  "search contents" : "Buscar notícias",
+  "popular contents" : "Notícias populares",
+  "recent contents" : "Últimas notícias",
+  "view all" : "ver todo",
+
+  "search" : "Buscar",
+  "search for contents" : "Buscar notícias",
+  "recent searches" : "pesquisas recentes",
+  "search-description" :  "Você ainda não procurou por nenhum item.\n  Experimente agora, nós o ajudaremos!",
+  "try again" : "Tente novamente!",
+  "categories" : "Categoria:",
+
+  "clear all" : "Limpiar tudo",
+  "bookmark is empty" : "Seu favorito está vazio!",
+  "save your favourite contents here" : "Salve suas notícias favoritas aqui",
+  "added to your bookmark" : "Adicionado ao seu favorito",
+
+  "no categories found": "Nenhuma categoria encontrada",
+  "no contents found" : "Nenhuma notícia encontrada",
+  "no internet" : "Sem ligação à Internet!",
+  "check your internet connection" : "Verifique sua conexão com a internet!",
+  "contents you might love" : "Itens que você pode gostar",
+
+  "comments" : "Comentários",
+  "view comments" : "Ver Comentários",
+  "write a comment" : "Escreva um comentário",
+  "no comments found" : "Nenhum comentário encontrado",
+  "be the first to comment" : "Seja o primeiro a comentar",
+  "login to make comments" : "Faça login para comentar",
+  "comment success title" : "Comentário enviado com sucesso",
+  "comment success description" : "Seu comentário foi enviado para revisão. Você verá seu comentário nesta lista após revisão.\nObrigado",
+  "you can't delete others comment" : "Você não pode deletar o comentário de outras pessoas",
+  "you can't edit others comment" : "Você não pode editar o comentário de outras pessoas",
+  "update comment" : "Atualizar comentário",
+
+  "delete" : "Excluir",
+  "update" : "Actualizar",
+
+  "notifications" : "Notificações",
+  "notification details" : "Detalhes de notificação",
+  "no notification title": "Nenhuma notificação encontrada!",
+  "no notification description" : "Você ainda não recebeu nenhuma notificação. Certifique-se de habilitar as notificações das configurações.",
+
+  "settings": "Ajustes",
+  "general settings" : "Configuração geral",
+  "social settings" : "Configurações sociais",
+  "about app" : "Sobre o app",
+  "dark mode" : "Modo oscuro",
+  "get notifications" : "Receber notificações",
+  "contact us" : "Contate-Nos",
+  "rate this app" : "Avalie este aplicativo",
+  "licence" : "Licença",
+  "privacy policy" : "Política de privacidade",
+  "about us" : "Sobre nós",
+  "logout" : "Fechar Sessão",
+  "our website" : "Nosso site",
+  "facebook page" : "página do Facebook",
+  "youtube channel" : "Canal do Youtube",
+
+  "logout title" : "Sair da aplicação?",
+  "logout description" : "Tem certeza de que deseja sair do aplicativo? Você perderá todos os seus dados salvos. Prosseguir?",
+
+  "language" : "Idioma",
+  "select language" : "Selecione o idioma",
+
+  "explore" : "Explorar",
+  "videos" : "Videos",
+  "video contents": "Artigos em Vídeo",
+  "twitter": "Twitter",
+  "bookmark": "Marcador",
+  "bookmarks": "Marcadores"
+
+
+
+
+}
